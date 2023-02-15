@@ -1,0 +1,22 @@
+
+.form-grup {
+    margin-top: 15px;
+}
+
+label {
+    color: chartreuse;
+    margin-bottom: 15px;
+}
+
+#kontak {
+    margin-top: 100px;
+}
+
+body {
+    background-image: url(img/hero2.png);
+}
+
+h2 {
+    font-size: 50px;
+    color: chartreuse;
+}

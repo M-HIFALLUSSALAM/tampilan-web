@@ -1,0 +1,25 @@
+img {
+    width: 600px;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    margin-top: 55px;
+}
+
+.name {
+    color: chartreuse;
+    margin-top: 150px;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tulis {
+    color: chartreuse;
+}

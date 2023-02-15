@@ -1,0 +1,17 @@
+body {
+    overflow-x: hidden;
+    background-color: rgb(126, 150, 255);
+}
+
+#Galeri {
+    margin-top: 100px;
+}
+
+h2 {
+    text-shadow: 2px 2px greenyellow;
+    margin-bottom: 30px;
+}
+
+.card {
+    box-shadow: 4px 4px rgb(52, 0, 148);
+}
